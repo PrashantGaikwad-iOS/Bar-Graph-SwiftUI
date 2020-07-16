@@ -1,3 +1,3 @@
 # Bar-Graph-SwiftUI
 
-![Optional Text](../image.png)
+![Optional Text](../master/image.png)
